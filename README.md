@@ -1,15 +1,23 @@
-# vue-base
-A base project in VueJS
+#VueJS Crud Example Application
+This application is an example build of creating CRUD and node API.
 
-#FOR VUE 
+# VUE Install
+    > npm install
 
+The API used in this example is a Node.js express API.
 
+# Run
+    > npm run dev
 
-npm i
+Site is active on http://localhost:8080
+    
 
-npm run dev
+    
+# NODE start API
 
+To start the API open your command terminal to this location and enter
 
-
-#FOR node 
- node server.js 
+    > node server.js
+    
+API is now active on http://localhost:3000
+   
